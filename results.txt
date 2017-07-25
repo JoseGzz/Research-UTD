@@ -1,0 +1,21 @@
+    X = {
+     '0': ['A','A','A','G','A'],
+     '1': ['A','A','A','C','C'],
+     '2': ['C','G','G','T','T'],
+     '3': ['C','C','C','C','C'],
+    }
+
+    X2 = {
+     '0': ['G','T','T','C','A'],
+     '1': ['G','C','A','C','C'],
+     '2': ['A','G','G','A','C'],
+     '3': ['A','A','T','C','C'],
+    }
+('clt and clt2 are: ', '41.50035% ', 'the same structure.')
+('clt and clt2 are: ', '37.5% ', 'the same at inference.')
+
+
+-------------------
+
+('clt and clt2 are: ', '70.9704% ', 'the same structure.')
+('clt and clt2 are: ', '56.25% ', 'the same at inference.')
